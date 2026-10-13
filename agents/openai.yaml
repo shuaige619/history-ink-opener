@@ -1,0 +1,3 @@
+interface:
+  display_name: "历史水墨片头与正文衔接"
+  short_description: "从故事设计人物水墨分镜，经本期工作台生成片头并接入正文"

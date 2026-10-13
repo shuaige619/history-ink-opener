@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "skill": "history-ink-opener",
+  "source_files": {
+    "SKILL.md": "4549779a390829d6710c5c88556462a4eacdb7876ac940126aa6b59ea668a330",
+    "agents/openai.yaml": "61aa7cb61ba4087823f73b5ff78dd11bef54ce6056ce1fb21926cdfef6bdf810",
+    "assets/minimax-design-custom-skill-prompt.md": "645bd5299b17de80f6e95a0d59706b6ddd276333f8522f425ac33f2014ae0d88",
+    "references/ai-writing-handoff.md": "a052aaca029e30f7d9e45472c15d7681a162eaa26d42df454645fc5391ccff47",
+    "references/body-handoff.md": "de27389b01dabcbe111fc4d731994b2632f4822336f1b6d6eb7b0b0371c0c51f",
+    "references/character-prompt-design.md": "409c66ee7709bc3d21dc0d3ae51a9c48cc0d0bfc020bcd27edf02e791919e013",
+    "references/character-scene-storyboard.md": "03a9bee3692244f0c9bc51c6131333bf67a51074766e03462d017a6d3fbfeaa5",
+    "references/director-h3-handoff.md": "165be75e0bd47c3e5bc57e9aa07406e1c943ebb928af53c00b541c8ed85e6cae",
+    "references/minimax-design-handoff.md": "c81201313c27efe0f65f6bf6db01a18433857f0585ca85ceaf1717a3527ff4d6",
+    "references/narration-picture-design.md": "01e87eacc54a13bc6dffddf1bc13dcc7a9a53f73c2922c7202bc884fc6d3c696",
+    "references/observed-style.md": "a0eb5608faeae23b81a4f2ade871e0e18e2a9e688185eea863cc0f278ac1b9f1",
+    "references/upstream-sources.json": "b049b20d7604cff1c85849faa05c4dad5cb2ce81d5a27d1eff118adb2404b9a2"
+  },
+  "adaptations": [
+    {
+      "file": "references/ai-writing-handoff.md",
+      "purpose": "Make the distribution copy portable; original retained",
+      "source_sha256": "a052aaca029e30f7d9e45472c15d7681a162eaa26d42df454645fc5391ccff47",
+      "release_sha256": "b9eaf5777a396f81613092c09fbb8c3bf260918df15257eb24ff613b50f404f5"
+    },
+    {
+      "file": "references/upstream-sources.json",
+      "purpose": "Make the distribution copy portable; original retained",
+      "source_sha256": "b049b20d7604cff1c85849faa05c4dad5cb2ce81d5a27d1eff118adb2404b9a2",
+      "release_sha256": "f2b6aa14b7ba46559c83389cfc4e34224bd084a0c8e3dbc74908e4938c551bd1"
+    }
+  ],
+  "original_inputs_modified": false
+}
